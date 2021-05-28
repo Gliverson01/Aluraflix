@@ -10,4 +10,10 @@ button {
   color: #fff;
   font-size: 20px;
   cursor: pointer;
+  box-shadow: 4px 4px #000;
+  transition: transform 150ms ease-in-out;
+}
+
+button:hover {
+  transform: scale(1.02);
 }
