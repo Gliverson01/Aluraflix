@@ -1,0 +1,4 @@
+.banner {
+    border: 2px solid var(--color-second);
+    box-shadow: 4px 4px 0 var(--color-black-first);
+}
