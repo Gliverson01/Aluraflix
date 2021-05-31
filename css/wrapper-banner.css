@@ -4,11 +4,11 @@
   align-items: center;
 }
 
-.wrapper-banner .banner {
+.wrapper-banner .main-banner {
   margin-bottom: 10px;
 }
 
-.wrapper-banner .caption {
+.wrapper-banner .main-caption {
   text-align: center;
   width: 186px;
 }
